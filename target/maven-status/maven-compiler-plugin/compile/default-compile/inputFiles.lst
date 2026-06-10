@@ -1,0 +1,16 @@
+C:\Users\nahom\.gemini\antigravity-ide\scratch\java-path-tracer\src\main\java\renderer\acceleration\BVH.java
+C:\Users\nahom\.gemini\antigravity-ide\scratch\java-path-tracer\src\main\java\renderer\acceleration\BVHBenchmark.java
+C:\Users\nahom\.gemini\antigravity-ide\scratch\java-path-tracer\src\main\java\renderer\acceleration\BVHNode.java
+C:\Users\nahom\.gemini\antigravity-ide\scratch\java-path-tracer\src\main\java\renderer\geometry\HitRecord.java
+C:\Users\nahom\.gemini\antigravity-ide\scratch\java-path-tracer\src\main\java\renderer\geometry\OBJLoader.java
+C:\Users\nahom\.gemini\antigravity-ide\scratch\java-path-tracer\src\main\java\renderer\geometry\Plane.java
+C:\Users\nahom\.gemini\antigravity-ide\scratch\java-path-tracer\src\main\java\renderer\geometry\Shape.java
+C:\Users\nahom\.gemini\antigravity-ide\scratch\java-path-tracer\src\main\java\renderer\geometry\Sphere.java
+C:\Users\nahom\.gemini\antigravity-ide\scratch\java-path-tracer\src\main\java\renderer\geometry\Triangle.java
+C:\Users\nahom\.gemini\antigravity-ide\scratch\java-path-tracer\src\main\java\renderer\geometry\TriangleMesh.java
+C:\Users\nahom\.gemini\antigravity-ide\scratch\java-path-tracer\src\main\java\renderer\math\BBox.java
+C:\Users\nahom\.gemini\antigravity-ide\scratch\java-path-tracer\src\main\java\renderer\math\MathUtils.java
+C:\Users\nahom\.gemini\antigravity-ide\scratch\java-path-tracer\src\main\java\renderer\math\Matrix4.java
+C:\Users\nahom\.gemini\antigravity-ide\scratch\java-path-tracer\src\main\java\renderer\math\Ray.java
+C:\Users\nahom\.gemini\antigravity-ide\scratch\java-path-tracer\src\main\java\renderer\math\Vector2.java
+C:\Users\nahom\.gemini\antigravity-ide\scratch\java-path-tracer\src\main\java\renderer\math\Vector3.java

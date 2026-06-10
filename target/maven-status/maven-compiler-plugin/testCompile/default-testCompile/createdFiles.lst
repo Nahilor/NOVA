@@ -1,0 +1,3 @@
+renderer\geometry\GeometryTests.class
+renderer\math\MathTests.class
+renderer\acceleration\BVHTests.class
